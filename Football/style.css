@@ -1,0 +1,31 @@
+img{
+    width: 100%;
+}
+.tk{
+    text-align: center;
+}
+.row tt{
+    background-color: brown;
+}
+h1{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 30px;
+} 
+.bg-red{
+    background-color: rgb(59, 97, 54);
+    color: blanchedalmond;
+    margin: 30px 0;
+}
+.nav-link{
+    color: black;
+    
+}
+h4{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.fon-gr{
+    background: radial-gradient( green,lightgreen,rgb(170, 223, 165), white);
+    padding: 30px 0;
+}
